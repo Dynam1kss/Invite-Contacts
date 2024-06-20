@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Invite-Contacts/static/css/main.cd5d95a0.css",
+    "main.js": "/Invite-Contacts/static/js/main.27cea400.js",
+    "index.html": "/Invite-Contacts/index.html",
+    "main.cd5d95a0.css.map": "/Invite-Contacts/static/css/main.cd5d95a0.css.map",
+    "main.27cea400.js.map": "/Invite-Contacts/static/js/main.27cea400.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5d95a0.css",
+    "static/js/main.27cea400.js"
+  ]
+}
